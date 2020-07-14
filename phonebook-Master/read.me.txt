@@ -1,0 +1,5 @@
+Remade the application. 
+Added the ability to call and send emails. 
+Checked for bugs and fixed. 
+Minimized the interface. 
+Used ListView instead of GridView.

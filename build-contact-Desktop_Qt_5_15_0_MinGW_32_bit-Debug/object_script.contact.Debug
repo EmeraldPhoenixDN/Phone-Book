@@ -1,0 +1,16 @@
+debug/datastore.o
+debug/editcontact.o
+debug/emailall.o
+debug/main.o
+debug/contacts.o
+debug/newcontact.o
+debug/person.o
+debug/smtp.o
+debug/smtpsettings.o
+debug/qrc_resources.o
+debug/moc_contacts.o
+debug/moc_editcontact.o
+debug/moc_emailall.o
+debug/moc_newcontact.o
+debug/moc_smtp.o
+debug/moc_smtpsettings.o

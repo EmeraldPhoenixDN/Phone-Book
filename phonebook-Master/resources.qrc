@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon.png</file>
+        <file>img/people_106508.png</file>
+        <file>img/Communication-email-icon.png</file>
+        <file>img/MetroUI-Other-Phone-Alt-icon.png</file>
+        <file>img/Edit-validated-icon.png</file>
+        <file>img/Actions-skype-contact-online-icon.png</file>
+    </qresource>
+</RCC>
